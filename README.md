@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kundan
 
-## 💫 About Me
+## About Me 🤨
 Aspiring **Full-Stack Developer** currently focused on building a strong foundation in **frontend development**.  
 I have hands-on experience with **HTML, CSS, JavaScript, and Tailwind CSS**, and I specialize in creating **responsive, clean, and user-friendly interfaces**.
 
