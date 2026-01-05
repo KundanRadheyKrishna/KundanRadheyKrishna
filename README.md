@@ -23,8 +23,9 @@ I also use **AI tools effectively** to enhance learning, improve problem-solving
 ![Media Queries](https://img.shields.io/badge/Media%20Queries-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🤝 Let's Connect!
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-kumar-sinha-82b38a35b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundankumarsinha14@gmail.com)
+
 
 🔗 https://www.linkedin.com/in/kundan-kumar-sinha-82b38a35b/  
 📧 kundankumarsinha14@gmail.com
