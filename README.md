@@ -8,8 +8,11 @@ Currently, I am learning **React.js** and expanding my understanding of modern w
 I also use **AI tools effectively** to enhance learning, improve problem-solving, and support development workflows while building **practical, real-world applications**.
 
 ---
+## 🛠 Tech Stack
 
-# 💻 Core Web Development Skills
+---
+
+## 💻 Core Web Development Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
