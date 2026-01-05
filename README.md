@@ -16,6 +16,12 @@ I also use **AI tools effectively** to enhance learning, improve problem-solving
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Responsive Design
+---
+![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
+![Media Queries](https://img.shields.io/badge/Media%20Queries-000000?style=for-the-badge&logo=css3&logoColor=white)
+
 ## 🤝 Let's Connect!
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
