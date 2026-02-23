@@ -32,7 +32,7 @@ I also use **AI tools effectively** to enhance learning, improve problem-solving
 
 ### 🗂 State Management & API
 
-![Redux](https://img.shields.io/badge/Redux-9370DB?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-584274?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Axios](https://img.shields.io/badge/Axios-4B0082?style=for-the-badge&logo=axios&logoColor=white)
 
