@@ -30,7 +30,7 @@ I also use **AI tools effectively** to enhance learning, improve problem-solving
 ![Media Queries](https://img.shields.io/badge/Media%20Queries-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### 🗂 State Management & API
+### State Management & API
 
 ![Redux](https://img.shields.io/badge/Redux-584274?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
