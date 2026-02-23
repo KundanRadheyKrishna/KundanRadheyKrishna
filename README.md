@@ -29,6 +29,12 @@ I also use **AI tools effectively** to enhance learning, improve problem-solving
 ![Flexbox](https://img.shields.io/badge/Flexbox-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
 ![Media Queries](https://img.shields.io/badge/Media%20Queries-000000?style=for-the-badge&logo=css3&logoColor=white)
 
+
+### State Management & API
+
+![Context API](https://img.shields.io/badge/Context%20API-React-blue?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-purple?style=for-the-badge&logo=axios&logoColor=white)
+
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-kumar-sinha-82b38a35b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundankumarsinha14@gmail.com)
