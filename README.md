@@ -2,9 +2,9 @@
 
 ## About Me 😎
 Aspiring **Full-Stack Developer** currently focused on building a strong foundation in **frontend development**.  
-I have hands-on experience with **HTML, CSS, JavaScript, and Tailwind CSS**, and I specialize in creating **responsive, clean, and user-friendly interfaces**.
+I have hands-on experience with **HTML, CSS, JavaScript, React.js and Tailwind CSS**, and I specialize in creating **responsive, clean, and user-friendly interfaces**.
 
-Currently, I am learning **React.js** and expanding my understanding of modern web development with the goal of transitioning into **full-stack development**.  
+Currently, I am making project using React.js and expanding my understanding of modern web development with the goal of transitioning into **full-stack development**.  
 I also use **AI tools effectively** to enhance learning, improve problem-solving, and support development workflows while building **practical, real-world applications**.
 
 ## 🛠 Tech Stack
